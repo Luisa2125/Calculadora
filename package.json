@@ -1,0 +1,47 @@
+{
+  "name": "laberinto",
+  "version": "1.0.0",
+  "description": "Laberinto clase web",
+  "main": "entry.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "lint": "eslint App.jsx"
+  },
+  "repository": {
+    
+  },
+  "keywords": [
+    "laberinto",
+    "web",
+    "react",
+    "primer"
+  ],
+  "author": "luisa arboleda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisa2125/Laberinto/issues"
+  },
+  "homepage": "https://github.com/Luisa2125/Laberinto#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^4.9.0",
+    "jquery": "^3.2.1",
+    "materialize-css": "^0.100.2",
+    "react": "^15.6.1",
+    "react-data-grid": "^2.0.60",
+    "react-dom": "^15.6.1",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "jest-enzyme": "^4.0.1"
+  }
+}

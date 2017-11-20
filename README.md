@@ -1,2 +1,1 @@
-# Calculadora
-Calculadora con slint
+# Laberinto
